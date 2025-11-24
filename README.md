@@ -17,7 +17,6 @@ You will need to add these arguments to the VM:
 
 You might find these useful:
 
-* 
 ## JOGL
 
 * https://jogamp.org/
